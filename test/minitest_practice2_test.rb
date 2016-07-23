@@ -10,7 +10,7 @@ class MinitestPractice2Test < Minitest::Test
   end
 
   def chedk_number?
-    refute @main.number?(1001), '1001 is not even'
+    refute @main.number?(1001), '1001 is not even!'
     assert @main.number?(1002), '1002 is even'
     refute @main.number?(999),  '999 is not 4-degit'
     assert @main.number?(1000), '1000 is 4-degit'
