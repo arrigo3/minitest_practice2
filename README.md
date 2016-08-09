@@ -34,3 +34,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/minitest_practice2.
 
+
+[![Build Status](https://travis-ci.org/arrigo3/minitest_practice2.svg?branch=master)](https://travis-ci.org/arrigo3/minitest_practice2)
